@@ -18,4 +18,8 @@ int main(void) {
   int product;
   product = a * b;
   printf("\n The Product of %d and %d is: %d", a, b, product);
+  
+  float f;
+  f = d/e;
+  printf("\n The division of %d and %d is %d",d,e,f);
 }
